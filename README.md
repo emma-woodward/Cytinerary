@@ -5,7 +5,7 @@ Cytinerary was intended to be a web app that would allow users to enter a schedu
 Please refer to the documents folder for any documentation that may interest you.
 
 # Group Members:
-* Vincent Woodward
+* Emma Woodward
 * Lewis Sheaffer  
 * Michael Andrews
 * Peter Rothstein
